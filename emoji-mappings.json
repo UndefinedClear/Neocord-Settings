@@ -1,5 +1,5 @@
-{
-  "linux": "1770656856400-Tux.svg.png",
-  "chess": "1770741922572-chess_example_map.png",
-  "arch": "1770746532496-arch.png"
+{ 
+  "arch": "https://images-ext-1.discordapp.net/external/Nq4EZB6XXP_51qc2_A57mT5ESD7L_DIYWMY6PZM4QoQ/https/bs64-to-image.vercel.app/uploads/76708ec0-54fe-4a1c-aeaa-e7e5dc3499b3.png?format=webp&quality=lossless",
+  "tux": "https://images-ext-1.discordapp.net/external/WEJa5tBQ-DEVu3kmGpoPHXyQ6c-wQRdemQaIJRrO4ro/https/hi4yz8yjyaajpgye.public.blob.vercel-storage.com/uploads/1770656856400-Tux.svg.png?format=webp&quality=lossless",
+  "linux": "https://images-ext-1.discordapp.net/external/WEJa5tBQ-DEVu3kmGpoPHXyQ6c-wQRdemQaIJRrO4ro/https/hi4yz8yjyaajpgye.public.blob.vercel-storage.com/uploads/1770656856400-Tux.svg.png?format=webp&quality=lossless",
 }
